@@ -14,7 +14,7 @@
 
 ## Установка и запуск
 
-1. Клонируйте репозиторий: `git clone https://github.com/твой_ник/KERN-Code.git`
+1. Клонируйте репозиторий: `git clone https://github.com/Suzixx47/KERN-Code.git`
 2. Перейдите в папку: `cd KERN-Code`
 3. Установите зависимости: `pip install requests beautifulsoup4 urllib3`
 4. Настройте API-ключи в config.py (GEMINI_API_KEY, GIGACHAT_AUTH_KEY) и выберите провайдера (PROVIDER).
